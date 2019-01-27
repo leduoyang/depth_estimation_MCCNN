@@ -8,11 +8,11 @@ Depth estimation on mtk data with a CNN model trained for cost computation (MCCN
 * refinement with opencv weighted median filter 
 
 ## Model
-![alt text](https://github.com/leduoyang/Screen2Camera-comm/blob/master/Result/model.png)
+![alt text](https://github.com/leduoyang/depth_estimation_MCCNN/blob/master/Result/model.png)
 
 ## Result
-![alt text](https://github.com/leduoyang/Screen2Camera-comm/blob/master/Result/result1.png)
-![alt text](https://github.com/leduoyang/Screen2Camera-comm/blob/master/Result/result2.png)
+![alt text](https://github.com/leduoyang/depth_estimation_MCCNN/blob/master/Result/result1.png)
+![alt text](https://github.com/leduoyang/depth_estimation_MCCNN/blob/master/Result/result2.png)
 
 source:
 https://arxiv.org/pdf/1409.4326.pdf
